@@ -1,0 +1,15 @@
+{
+    "name": "testingjs",
+    "version": "1.0.0",
+    "description": "Jest",
+    "main": "app.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "NicoArato",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/preset-env": "^7.12.11",
+        "jest": "^26.6.3"
+    }
+}
